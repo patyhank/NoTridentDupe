@@ -1,0 +1,5 @@
+name: NoTridentDupe
+version: '0.0.1-SNAPSHOT'
+main: net.patyhank.noTridentDupe.NoTridentDupe
+api-version: '1.21'
+load: STARTUP
